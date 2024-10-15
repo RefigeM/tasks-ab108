@@ -1,0 +1,30 @@
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.exe
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.deps.json
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.runtimeconfig.json
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.dll
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.pdb
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.sourcelink.json
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.dll
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\refint\classTask-1.dll
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.pdb
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\classTask-1\classTask-1\obj\Debug\net8.0\ref\classTask-1.dll
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.exe
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.dll
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\bin\Debug\net8.0\classTask-1.pdb
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.sourcelink.json
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.dll
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\refint\classTask-1.dll
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.pdb
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\classTask-1.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\tasks\classTask-1\classTask-1\obj\Debug\net8.0\ref\classTask-1.dll
