@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\bin\Debug\net8.0\vehicleCar.exe
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\bin\Debug\net8.0\vehicleCar.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\bin\Debug\net8.0\vehicleCar.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\bin\Debug\net8.0\vehicleCar.dll
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\bin\Debug\net8.0\vehicleCar.pdb
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\vehicleCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\vehicleCar.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\vehicleCar.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\vehicleCar.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\vehicleCar.dll
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\refint\vehicleCar.dll
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\vehicleCar.pdb
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\vehicleCar.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\vehicleCar\vehicleCar\obj\Debug\net8.0\ref\vehicleCar.dll
