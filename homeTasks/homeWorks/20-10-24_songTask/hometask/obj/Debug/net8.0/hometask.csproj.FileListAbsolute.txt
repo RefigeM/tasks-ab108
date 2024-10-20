@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\bin\Debug\net8.0\hometask.exe
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\bin\Debug\net8.0\hometask.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\bin\Debug\net8.0\hometask.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\bin\Debug\net8.0\hometask.dll
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\bin\Debug\net8.0\hometask.pdb
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\hometask.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\hometask.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\hometask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\hometask.dll
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\refint\hometask.dll
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\hometask.pdb
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\hometask.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\hometask\hometask\obj\Debug\net8.0\ref\hometask.dll
