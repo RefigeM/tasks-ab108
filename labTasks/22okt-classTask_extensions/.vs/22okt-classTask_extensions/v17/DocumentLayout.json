@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\22okt-classTask_extensions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A4EE06-BC43-4554-95CD-6F7305F07B8C}|22okt-classTask_extensions\\22okt-classTask_extensions.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\22okt-classtask_extensions\\22okt-classtask_extensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A4EE06-BC43-4554-95CD-6F7305F07B8C}|22okt-classTask_extensions\\22okt-classTask_extensions.csproj|solutionrelative:22okt-classtask_extensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A4EE06-BC43-4554-95CD-6F7305F07B8C}|22okt-classTask_extensions\\22okt-classTask_extensions.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\22okt-classtask_extensions\\22okt-classtask_extensions\\extentions\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A4EE06-BC43-4554-95CD-6F7305F07B8C}|22okt-classTask_extensions\\22okt-classTask_extensions.csproj|solutionrelative:22okt-classtask_extensions\\extentions\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\22okt-classTask_extensions\\22okt-classTask_extensions\\Extentions\\Extensions.cs",
+              "RelativeDocumentMoniker": "22okt-classTask_extensions\\Extentions\\Extensions.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\22okt-classTask_extensions\\22okt-classTask_extensions\\Extentions\\Extensions.cs",
+              "RelativeToolTip": "22okt-classTask_extensions\\Extentions\\Extensions.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:50:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\22okt-classTask_extensions\\22okt-classTask_extensions\\Program.cs",
+              "RelativeDocumentMoniker": "22okt-classTask_extensions\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\22okt-classTask_extensions\\22okt-classTask_extensions\\Program.cs",
+              "RelativeToolTip": "22okt-classTask_extensions\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:32:49.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

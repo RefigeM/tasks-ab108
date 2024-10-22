@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "22okt-classTask_extensions/1.0.0": {
+        "runtime": {
+          "22okt-classTask_extensions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22okt-classTask_extensions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

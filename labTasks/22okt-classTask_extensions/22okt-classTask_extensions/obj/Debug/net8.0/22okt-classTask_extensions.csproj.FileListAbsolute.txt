@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\bin\Debug\net8.0\22okt-classTask_extensions.exe
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\bin\Debug\net8.0\22okt-classTask_extensions.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\bin\Debug\net8.0\22okt-classTask_extensions.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\bin\Debug\net8.0\22okt-classTask_extensions.dll
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\bin\Debug\net8.0\22okt-classTask_extensions.pdb
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\22okt-classTask_extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\22okt-classTask_extensions.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\22okt-classTask_extensions.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\22okt-classTask_extensions.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\22okt-classTask_extensions.dll
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\refint\22okt-classTask_extensions.dll
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\22okt-classTask_extensions.pdb
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\22okt-classTask_extensions.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\22okt-classTask_extensions\22okt-classTask_extensions\obj\Debug\net8.0\ref\22okt-classTask_extensions.dll
