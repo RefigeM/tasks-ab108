@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\bin\Debug\net8.0\23-10-24_indexer.exe
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\bin\Debug\net8.0\23-10-24_indexer.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\bin\Debug\net8.0\23-10-24_indexer.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\bin\Debug\net8.0\23-10-24_indexer.dll
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\bin\Debug\net8.0\23-10-24_indexer.pdb
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\23-10-24_indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\23-10-24_indexer.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\23-10-24_indexer.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\23-10-24_indexer.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\23-10-24_indexer.dll
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\refint\23-10-24_indexer.dll
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\23-10-24_indexer.pdb
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\23-10-24_indexer.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\23-10-24_indexer\23-10-24_indexer\obj\Debug\net8.0\ref\23-10-24_indexer.dll
