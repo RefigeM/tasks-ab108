@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\wehicle_task-class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FEEC4E-3521-4795-94F7-5071A33EB07A}|wehicle_task-class\\wehicle_task-class.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FEEC4E-3521-4795-94F7-5071A33EB07A}|wehicle_task-class\\wehicle_task-class.csproj|solutionrelative:wehicle_task-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FEEC4E-3521-4795-94F7-5071A33EB07A}|wehicle_task-class\\wehicle_task-class.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FEEC4E-3521-4795-94F7-5071A33EB07A}|wehicle_task-class\\wehicle_task-class.csproj|solutionrelative:wehicle_task-class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46FEEC4E-3521-4795-94F7-5071A33EB07A}|wehicle_task-class\\wehicle_task-class.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\wehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46FEEC4E-3521-4795-94F7-5071A33EB07A}|wehicle_task-class\\wehicle_task-class.csproj|solutionrelative:wehicle_task-class\\wehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\Car.cs",
+              "RelativeDocumentMoniker": "wehicle_task-class\\Car.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\Car.cs",
+              "RelativeToolTip": "wehicle_task-class\\Car.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBMAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:41:04.718Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\Wehicle.cs",
+              "RelativeDocumentMoniker": "wehicle_task-class\\Wehicle.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\Wehicle.cs",
+              "RelativeToolTip": "wehicle_task-class\\Wehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:37:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\Program.cs",
+              "RelativeDocumentMoniker": "wehicle_task-class\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\wehicle_task-class\\wehicle_task-class\\Program.cs",
+              "RelativeToolTip": "wehicle_task-class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:36:30.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

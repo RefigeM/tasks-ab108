@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\wehicle_task-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\wehicle_task-class.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\wehicle_task-class.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\wehicle_task-class.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\bin\Debug\net8.0\wehicle_task-class.exe
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\bin\Debug\net8.0\wehicle_task-class.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\bin\Debug\net8.0\wehicle_task-class.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\bin\Debug\net8.0\wehicle_task-class.dll
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\bin\Debug\net8.0\wehicle_task-class.pdb
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\wehicle_task-class.dll
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\refint\wehicle_task-class.dll
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\wehicle_task-class.pdb
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\wehicle_task-class.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\wehicle_task-class\wehicle_task-class\obj\Debug\net8.0\ref\wehicle_task-class.dll
