@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\bin\Debug\net8.0\WeapenTask-oop.exe
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\bin\Debug\net8.0\WeapenTask-oop.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\bin\Debug\net8.0\WeapenTask-oop.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\bin\Debug\net8.0\WeapenTask-oop.dll
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\bin\Debug\net8.0\WeapenTask-oop.pdb
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\WeapenTask-oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\WeapenTask-oop.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\WeapenTask-oop.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\WeapenTask-oop.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\WeapenTask-oop.dll
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\refint\WeapenTask-oop.dll
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\WeapenTask-oop.pdb
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\WeapenTask-oop.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\WeapenTask-oop\WeapenTask-oop\obj\Debug\net8.0\ref\WeapenTask-oop.dll
