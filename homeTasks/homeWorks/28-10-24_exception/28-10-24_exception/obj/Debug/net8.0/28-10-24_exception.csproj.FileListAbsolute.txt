@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\bin\Debug\net8.0\28-10-24_exception.exe
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\bin\Debug\net8.0\28-10-24_exception.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\bin\Debug\net8.0\28-10-24_exception.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\bin\Debug\net8.0\28-10-24_exception.dll
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\bin\Debug\net8.0\28-10-24_exception.pdb
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\28-10-24_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\28-10-24_exception.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\28-10-24_exception.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\28-10-24_exception.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\28-10-24_exception.dll
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\refint\28-10-24_exception.dll
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\28-10-24_exception.pdb
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\28-10-24_exception.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\28-10-24_exception\28-10-24_exception\obj\Debug\net8.0\ref\28-10-24_exception.dll
