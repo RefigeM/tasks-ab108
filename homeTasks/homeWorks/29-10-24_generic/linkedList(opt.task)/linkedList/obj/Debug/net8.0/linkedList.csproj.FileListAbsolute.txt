@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\bin\Debug\net8.0\linkedList.exe
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\bin\Debug\net8.0\linkedList.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\bin\Debug\net8.0\linkedList.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\bin\Debug\net8.0\linkedList.dll
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\bin\Debug\net8.0\linkedList.pdb
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\linkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\linkedList.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\linkedList.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\linkedList.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\linkedList.dll
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\refint\linkedList.dll
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\linkedList.pdb
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\linkedList.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\linkedList\linkedList\obj\Debug\net8.0\ref\linkedList.dll
