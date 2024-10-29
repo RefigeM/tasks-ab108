@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\bin\Debug\net8.0\29-10-24_generic.exe
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\bin\Debug\net8.0\29-10-24_generic.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\bin\Debug\net8.0\29-10-24_generic.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\bin\Debug\net8.0\29-10-24_generic.dll
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\bin\Debug\net8.0\29-10-24_generic.pdb
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\29-10-24_generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\29-10-24_generic.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\29-10-24_generic.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\29-10-24_generic.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\29-10-24_generic.dll
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\refint\29-10-24_generic.dll
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\29-10-24_generic.pdb
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\29-10-24_generic.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\29-10-24_generic\29-10-24_generic\obj\Debug\net8.0\ref\29-10-24_generic.dll
