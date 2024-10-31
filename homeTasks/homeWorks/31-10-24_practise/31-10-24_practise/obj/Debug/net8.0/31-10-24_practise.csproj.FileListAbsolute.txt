@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\bin\Debug\net8.0\31-10-24_practise.exe
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\bin\Debug\net8.0\31-10-24_practise.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\bin\Debug\net8.0\31-10-24_practise.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\bin\Debug\net8.0\31-10-24_practise.dll
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\bin\Debug\net8.0\31-10-24_practise.pdb
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\31-10-24_practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\31-10-24_practise.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\31-10-24_practise.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\31-10-24_practise.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\31-10-24_practise.dll
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\refint\31-10-24_practise.dll
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\31-10-24_practise.pdb
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\31-10-24_practise.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\31-10-24_practise\31-10-24_practise\obj\Debug\net8.0\ref\31-10-24_practise.dll
