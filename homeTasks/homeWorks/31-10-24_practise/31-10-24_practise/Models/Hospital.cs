@@ -12,7 +12,7 @@ namespace _31_10_24_practise.Models;
     {
         Appointments.FindAll(x => x.No == no).ForEach(x =>
         {
-            Console.WriteLine(x.EndTime);
+            Console.WriteLine(x.EndDate);
         });
     }
     public Appointment GetAppointment(int no)
@@ -27,17 +27,21 @@ namespace _31_10_24_practise.Models;
 
     public List<Appointment> GetWeeklyAppointments() 
     {
-        return Appointments.FindAll(x => (DateTime.Now.Day - x.EndTime.Day) < 8);
+        return Appointments.FindAll(x => (x.StartDate.Day - x.EndDate.Day) >=7);
        
     }
     public List<Appointment> GetTodaysAppointments()
     {
-        return Appointments.FindAll(x => (DateTime.Now.Date == x.StartTime.Date));
-
+       var appointment = Appointments.FindAll(x => (DateTime.Now.Date == x.StartDate.Date));
+        if (appointment.Count>0) return appointment;
+        else {
+            Console.WriteLine("Bu gun ucun appointment yoxdur");
+        }
+        return appointment;
     }
     public List<Appointment> GetAllContinuingAppointments()
     {
-        return Appointments.FindAll(x => x.StartTime <= DateTime.Now && x.EndTime >= DateTime.Now);
+        return Appointments.FindAll(x => x.StartDate <= DateTime.Now && x.EndDate >= DateTime.Now);
     }
 
 

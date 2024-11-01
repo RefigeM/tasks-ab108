@@ -13,7 +13,7 @@ namespace _31_10_24_practise
             Appointment appointment1 = new Appointment(1, "Refiqe", "dr. Ayxan", new DateTime(2024, 10, 31, 9, 0, 0), new DateTime(2024, 10, 31, 11, 0, 0));
             Appointment appointment2 = new Appointment(2, "Aygun", "dr. Ayxan", new DateTime(2024, 10, 31, 9, 0, 0), new DateTime(2024, 10, 1, 11, 50, 0));
             Appointment appointment3 = new Appointment(3, "Nurlan", "dr. Ayxan", new DateTime(2024, 10, 31, 9, 0, 0), new DateTime(2024, 11, 5, 13, 0, 0));
-            Appointment appointment4 = new Appointment(4, "Ali", "dr. Ayxan", new DateTime(2024, 10, 31, 9, 0, 0), new DateTime(2025, 10, 1, 17, 0, 0));
+            Appointment appointment4 = new Appointment(4, "Ali", "dr. Ayxan", new DateTime(2024, 11, 1, 9, 0, 0), new DateTime(2025, 11, 2, 17, 0, 0));
 
             hospital.AddAppointment(appointment1);
             hospital.AddAppointment(appointment2);
@@ -42,7 +42,7 @@ namespace _31_10_24_practise
                     Console.ReadLine();
                     break;
                 case 4:
-                    Console.WriteLine("Bu hefteki appointmentler: ");
+                    Console.WriteLine("Heftelik appointmentler: ");
                     hospital.GetWeeklyAppointments().PrintAppointments();
                     //hospital.GetWeeklyAppointments().PrintAppointments();
                     Console.ReadLine();
@@ -60,6 +60,7 @@ namespace _31_10_24_practise
                     break;
                 case 7:
                     Console.WriteLine("Menyudan cixildi...");
+                    Console.ReadLine();
                     break;
 
                 default:

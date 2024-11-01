@@ -10,7 +10,7 @@ namespace _31_10_24_practise.Models.Extensions
         {
             foreach (var item in appointments)
             {
-                Console.WriteLine($"appointment no:{item.No},{item.Patient},{item.Doctor},{item.StartTime}, {item.EndTime}");
+                Console.WriteLine($"appointment no:{item.No},{item.Patient},{item.Doctor},{item.StartDate}, {item.EndDate}");
             }
         }
     }
