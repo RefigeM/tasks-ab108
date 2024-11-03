@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\3-11-24_fileStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3934D24-44F8-479D-9923-83C59873D509}|3-11-24_fileStream\\3-11-24_fileStream.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\3-11-24_filestream\\3-11-24_filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3934D24-44F8-479D-9923-83C59873D509}|3-11-24_fileStream\\3-11-24_fileStream.csproj|solutionrelative:3-11-24_filestream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3934D24-44F8-479D-9923-83C59873D509}|3-11-24_fileStream\\3-11-24_fileStream.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\3-11-24_filestream\\3-11-24_filestream\\files\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3934D24-44F8-479D-9923-83C59873D509}|3-11-24_fileStream\\3-11-24_fileStream.csproj|solutionrelative:3-11-24_filestream\\files\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3934D24-44F8-479D-9923-83C59873D509}|3-11-24_fileStream\\3-11-24_fileStream.csproj|c:\\users\\acer\\onedrive\\masa\u00FCst\u00FC\\3-11-24_filestream\\3-11-24_filestream\\models\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3934D24-44F8-479D-9923-83C59873D509}|3-11-24_fileStream\\3-11-24_fileStream.csproj|solutionrelative:3-11-24_filestream\\models\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "names.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\3-11-24_fileStream\\3-11-24_fileStream\\Files\\names.json",
+              "RelativeDocumentMoniker": "3-11-24_fileStream\\Files\\names.json",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\3-11-24_fileStream\\3-11-24_fileStream\\Files\\names.json",
+              "RelativeToolTip": "3-11-24_fileStream\\Files\\names.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T16:23:59.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\3-11-24_fileStream\\3-11-24_fileStream\\Models\\FileHelper.cs",
+              "RelativeDocumentMoniker": "3-11-24_fileStream\\Models\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\3-11-24_fileStream\\3-11-24_fileStream\\Models\\FileHelper.cs",
+              "RelativeToolTip": "3-11-24_fileStream\\Models\\FileHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:15:35.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\3-11-24_fileStream\\3-11-24_fileStream\\Program.cs",
+              "RelativeDocumentMoniker": "3-11-24_fileStream\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\OneDrive\\Masa\u00FCst\u00FC\\3-11-24_fileStream\\3-11-24_fileStream\\Program.cs",
+              "RelativeToolTip": "3-11-24_fileStream\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:14:34.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

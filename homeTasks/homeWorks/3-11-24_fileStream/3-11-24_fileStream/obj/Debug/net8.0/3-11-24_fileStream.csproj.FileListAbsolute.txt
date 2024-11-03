@@ -1,0 +1,17 @@
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\bin\Debug\net8.0\3-11-24_fileStream.exe
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\bin\Debug\net8.0\3-11-24_fileStream.deps.json
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\bin\Debug\net8.0\3-11-24_fileStream.runtimeconfig.json
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\bin\Debug\net8.0\3-11-24_fileStream.dll
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\bin\Debug\net8.0\3-11-24_fileStream.pdb
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_fileStream.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_fileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_fileStream.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_fileStream.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_fileStream.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_.6BE0553A.Up2Date
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_fileStream.dll
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\refint\3-11-24_fileStream.dll
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_fileStream.pdb
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\3-11-24_fileStream.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Masaüstü\3-11-24_fileStream\3-11-24_fileStream\obj\Debug\net8.0\ref\3-11-24_fileStream.dll
